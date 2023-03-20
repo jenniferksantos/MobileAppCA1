@@ -36,3 +36,4 @@ Course: Science in Computing
     - [ ] Use at least one FrameLayout as a separator e.g. to separate two LinearLayouts or TextViews (Hint: Set height 1dp with a light gray background)
     - [ ] Show both icon and text in buttons
 - [ ]https://github.com/jenniferksantos/MobileAppCA1
+    - 
