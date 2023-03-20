@@ -1,13 +1,13 @@
 # Continuous Assessment 1
 
-Student Name: Your name
-Student ID: 123456
-Course: Your course
+Student Name: Jennifer Kelly Dos Santos
+Student ID: 22605
+Course: Science in Computing
 
 ## Requirement Checklist
 
 - [ ] Home page
-    - [ ] Show profile photo: With atleast 5dp separation from the layout
+    - [ ] Show profile photo: With at least 5dp separation from the layout
     - [ ] Your Details: horizontally centered in layout
         - [ ] Name
         - [ ] Course
@@ -15,7 +15,7 @@ Course: Your course
     - [ ] Four buttons — Education, Skills, Achievements and Exit
         - [ ] vertically stacked
         - [ ] same size
-        - [ ] separated vertically by atleast 5dp
+        - [ ] separated vertically by at least 5dp
         - [ ] Education, Skills, Achievements take to new page
         - [ ] Exit should close the app
     - [ ] Copyright text at bottom:

@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Mobile Apps 1</string>
+    <string name="name">name</string>
+    <string name="name_button">name</string>
+    <string name="Jennifer_button">Jennifer Santos</string>
+    <string name="Course_button">Computer Science</string>
+    <string name="idNumber_button">22605</string>
+    <string name="ca1">CA1</string>
 </resources>
